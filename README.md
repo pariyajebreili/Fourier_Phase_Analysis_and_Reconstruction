@@ -21,3 +21,31 @@ This code uses two images:
     </td>
   </tr>
 </table>
+
+
+
+### Results of Reconstructed Images:
+In the first reconstructed image, the phase of the cat image is combined with the magnitude of the man's image.
+The reconstructed image visually resembles the cat, even though the magnitude information originates from the man's image.
+This highlights the critical importance of the phase in retaining the recognizable structural details of the image.
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="images/Cat_phase.png" width="200"><br>
+    </td>
+  </tr>
+</table>
+
+In the next reconstructed image, the phase of the man image is combined with the magnitude of the cat's image.
+The next reconstructed image visually resembles the man, even though the magnitude information originates from the cat's image.
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="images/Man_phase.png" width="200"><br>
+    </td>
+  </tr>
+</table>
+
+
+
+
